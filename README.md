@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Rai.
-- 👀 I’m interested in web development, machine learning, AI, etc.
+- 👀 I’m interested in 
 - 🌱 I’m currently learning AI, ML
 - 📫 How to reach me rohitraie7@gmail.com
 - ⚡ Fun fact: I am funny.
